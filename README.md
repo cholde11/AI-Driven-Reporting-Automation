@@ -39,8 +39,6 @@ The public workflow below is intentionally high-level:
 
 **Governed Microsoft 365 Sources → Microsoft Copilot → Reporting Period Logic → Validation \& Standardization → Structured Leadership Report**
 
-See [`docs/workflow-diagram.svg`](docs/workflow-diagram.svg) for a visual overview.
-
 ## Reporting Logic
 
 At a high level, the workflow:
