@@ -52,12 +52,6 @@ At a high level, the workflow:
 
 The original production prompt and internal implementation details are intentionally excluded from this repository.
 
-## Example
-
-A fictional example showing the type of sanitized output this workflow could produce is available in [`examples/fictional-report-example.md`](examples/fictional-report-example.md).
-
-The example contains no real employee names, assignments, internal activities, or company data.
-
 ## Outcome
 
 The workflow reduced repetitive report preparation and inconsistent formatting while making recurring updates easier to interpret. The standardized structure was useful enough to support adoption by other departments.
